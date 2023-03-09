@@ -1,3 +1,4 @@
+pacman -S
 vim 
 nano
 lightdm
