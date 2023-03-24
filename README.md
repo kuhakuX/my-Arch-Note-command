@@ -8,9 +8,7 @@ firewalld
 neofetch
 nano
 vim
-
 aria2
-
 
 -----------------------------  
   
