@@ -23,6 +23,7 @@ git clone https://aur.archlinux.org/freedownloadmanager.git
 cd freedownloadmanager  
 ls  
 makepkg -si  
+  
 Credit : https://www.youtube.com/watch?v=h6UkjRl9dNE&t=66s&ab_channel=EF-LinuxMadeSimple  
   
 ----------------------------- 
