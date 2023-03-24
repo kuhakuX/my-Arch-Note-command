@@ -1,4 +1,4 @@
-pacman -S
+pacman -Syu
 
 egl-wayland
 eglexternalplatform
