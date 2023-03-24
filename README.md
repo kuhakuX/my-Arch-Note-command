@@ -1,5 +1,6 @@
 pacman -Syu
 
+xfce4
 egl-wayland
 eglexternalplatform
 firefox-developer-edition
@@ -9,7 +10,7 @@ nano
 vim
 
 aria2
-aria2c
+
 
 -----------------------------  
   
