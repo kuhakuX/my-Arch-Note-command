@@ -12,6 +12,11 @@ xorg
 xfce4
 gdm
 nvidia
+neofetch
+firewalld
+firefox-developer-edition
+egl-wayland
+eglexternalplatform
 
 aria2
 aria2c
