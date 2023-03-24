@@ -9,8 +9,7 @@ alsa
 alsa-utils
 neofetch
 xorg
-gnome
-gnome-extra
+xfce4
 gdm
 nvidia
 
