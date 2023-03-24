@@ -1,22 +1,12 @@
 pacman -S
 
-vim 
-nano
-lightdm
-lightdm-gtk-greeter
-arch-install-scripts 
-alsa
-alsa-utils
-neofetch
-xorg
-xfce4
-gdm
-nvidia
-neofetch
-firewalld
-firefox-developer-edition
 egl-wayland
 eglexternalplatform
+firefox-developer-edition
+firewalld
+neofetch
+nano
+vim
 
 aria2
 aria2c
