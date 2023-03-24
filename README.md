@@ -1,3 +1,4 @@
+PACKAGE
 pacman -Syu
 
 xfce4
@@ -12,6 +13,7 @@ aria2
 
 -----------------------------  
   
+AUR
 git clone https://aur.archlinux.org/freedownloadmanager.git  
 cd freedownloadmanager  
 ls  
