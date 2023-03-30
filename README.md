@@ -2,7 +2,7 @@
   
 pacman -S base-devel git  
   
-git clone https://aur.archlinux.org/yay.git (https://aur.archlinux.org/packages/yay-git)
+git clone https://aur.archlinux.org/yay.git
   
 cd yay  
   
