@@ -8,6 +8,7 @@ cd yay
   
 makepkg -si  
   
+  Credit : https://www.makeuseof.com/install-and-use-yay-arch-linux/
 -----------------------------  
 | PACKAGE |  
   
