@@ -1,3 +1,14 @@
+| yay |  
+  
+pacman -S base-devel git  
+  
+git clone https://aur.archlinux.org/yay.git (https://aur.archlinux.org/packages/yay-git)
+  
+cd yay  
+  
+makepkg -si  
+  
+-----------------------------  
 | PACKAGE |  
   
 pacman -Syu
