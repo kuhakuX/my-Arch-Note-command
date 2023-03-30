@@ -49,7 +49,11 @@ $ which java
   
 Credit : https://www.tecmint.com/install-java-on-arch-linux/  
   
+  ::EXTRA.COMMAND::  
+    
+  java -jar EXAMPLE.jar  
      
+  
   ----------------------------- 
     
 [![](https://img.itch.zone/aW1hZ2UvODY4NDgvMTE1NTU1MC5naWY=/original/DnAh90.gif)]([https://www.youtube.com/watch?v=pCC6qbAnX00](https://danbooru.donmai.us/posts/6002662?q=animated+gif))
